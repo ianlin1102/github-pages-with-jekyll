@@ -1,2 +1,4 @@
-theme: minia
-# nothing else is same
+---
+title: "MyPen15"
+date: 2021-02-09
+---
